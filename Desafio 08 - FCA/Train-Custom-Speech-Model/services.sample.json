@@ -1,0 +1,14 @@
+{
+  "services": {
+    "code-pattern-custom-language-model": [
+      {
+        "credentials": {
+          "apikey": "<your api key>",
+          "url": "<your api url>"
+        },
+        "label": "speech_to_text",
+        "name": "code-pattern-custom-language-model"
+      }
+    ]
+  }
+}
